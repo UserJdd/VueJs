@@ -2,7 +2,9 @@
 ---
 ##### 请求示例
 请求类型：`GET`
+
 请求地址：`https://vue.md/Api.icp/icp`
+
 请求示例：`https://vue.md/Api.icp/icp?domain=你的域名&token=你的Token`
 
 ---
